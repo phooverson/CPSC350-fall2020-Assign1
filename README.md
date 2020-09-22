@@ -12,10 +12,13 @@ list of all files:
  - files.cpp
  - main.cpp
  - Makefile
+ 
 Description of any known errors or changes from assignment:
  - No know errors
+ 
 list of references used (Anyone):
  - cplusplus.com
+ 
 how to run code:
 - make all
 - ./DNA.out "filename" (./DNA.out DNA.txt)
